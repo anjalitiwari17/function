@@ -165,7 +165,6 @@
 //     return cleanStr === cleanStr.split('').reverse().join('');
 // }
 
-// // Example usage:
 // console.log(isPalindrome("racecar")); // Output: true
 // console.log(isPalindrome("hello")); // Output: false
 // console.log(isPalindrome("A man, a plan, a canal, Panama")); // Output: true
@@ -191,7 +190,6 @@
 //     }
 // }
 
-// // Example usage:
 // console.log(triangleType(5, 5, 5)); // Output: "Equilateral triangle"
 // console.log(triangleType(3, 4, 4)); // Output: "Isosceles triangle"
 // console.log(triangleType(6, 8, 10)); // Output: "Scalene triangle"
